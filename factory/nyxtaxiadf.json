@@ -1,0 +1,9 @@
+{
+	"name": "nyxtaxiadf",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "07fe8969-8eb9-4be0-9a00-7d9951e7a2fa",
+		"tenantId": "d4afed27-6d3e-4517-9390-dea15d76a768"
+	}
+}

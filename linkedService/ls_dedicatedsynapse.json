@@ -1,0 +1,15 @@
+{
+	"name": "ls_dedicatedsynapse",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDW",
+		"typeProperties": {
+			"server": "nyctaxisynapse.sql.azuresynapse.net",
+			"database": "nycdedicatedsqlpool",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SystemAssignedManagedIdentity"
+		}
+	}
+}
